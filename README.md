@@ -55,7 +55,9 @@ Update database settings in: src/main/resources/application.properties
 
 Example:
 spring.datasource.url=jdbc:postgresql://localhost:5432/task
+
 spring.datasource.username=postgres
+
 spring.datasource.password=khadus
 
 ---
