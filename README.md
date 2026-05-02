@@ -61,10 +61,9 @@ spring.datasource.password=khadus
 ---
 
 ## 🚀 Future Enhancements
-- Add frontend UI
-- User authentication (Login/Register)
-- Task deadlines & reminders
-- Deployment on cloud (Railway)
+- 🔄 Add real-time updates using WebSockets
+- 📁 File attachments for tasks
+- 📊 Dashboard with analytics (completed vs pending tasks)
 
 ---
 
