@@ -29,16 +29,6 @@ This is a Task Manager web application built using Spring Boot. It is designed t
 
 ---
 
-src/main/java/com/task/manager/
-└── TaskMagaerProjectApplication.java
-
-src/main/resources/
-└── application.properties
-
-pom.xml
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
