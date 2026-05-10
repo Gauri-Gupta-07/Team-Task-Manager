@@ -32,7 +32,7 @@ This is a Task Manager web application built using Spring Boot. It is designed t
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
-git clone https://github.com//Gauri-Gupta-07/TaskManagerProject.git
+https://github.com/nandishu2503/team-task-manager.git
 
 ### 2. Open in IDE
 - Open project in Eclipse
@@ -46,17 +46,12 @@ OR run main class:
 ---
 
 ## 🌐 Application Access
-After running:http://localhost:8081/tasks
+After running:http://localhost:8080/tasks
 
 ---
 
 ## 🔧 Configuration
 Update database settings in: src/main/resources/application.properties
-
-## Example:
-spring.datasource.url=jdbc:postgresql://localhost:5432/task
-spring.datasource.username=postgres
-spring.datasource.password=khadus
 
 ---
 
@@ -70,7 +65,3 @@ spring.datasource.password=khadus
 ## 👨‍💻 Author
 Gauri Gupta
 
----
-
-## 📜 License
-This project is developed for educational purposes.
