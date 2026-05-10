@@ -55,6 +55,14 @@ Update database settings in: src/main/resources/application.properties
 
 ---
 
+| Layer      | Purpose                    |
+| ---------- | -------------------------- |
+| Controller | Receives HTTP requests     |
+| Service    | Contains business logic    |
+| Repository | Communicates with database |
+| Entity     | Represents database tables |
+
+---
 ## 🚀 Future Enhancements
 - 🔄 Add real-time updates using WebSockets
 - 📁 File attachments for tasks
